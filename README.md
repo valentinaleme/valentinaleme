@@ -1,8 +1,10 @@
-## Olá! Sou a Valentina
+## Hi! My name is Valentina, I'm a Web developer from Brasil :)
 
-- 💻 Atuo na área de front-end
-- 📚 Atualemnte estou estudando: Nodejs
-- 📫 Contate-me em: valentinamonfardini27@gmail.com
+About me...
+
+- 💻 I work in the front-end area
+- 📚 I am currently studying: Nodejs
+- 📫 Please contact me at: valentinamonfardini27@gmail.com
 
 <!---
 valentinaleme/valentinaleme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
